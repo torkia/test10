@@ -1,0 +1,13 @@
+# Xcode
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+
+# CocoaPod
+Pods/*
+
+# others
+*.swp
+!.gitkeep
+.DS_Store
